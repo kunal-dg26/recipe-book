@@ -2,5 +2,6 @@ My recipe book
 
 - chai.txt: Masala chai
 - poha.txt: Poha
+- upma.txt: Upma
 
-Coming soon: upma and sheera
+Coming soon: sheera
